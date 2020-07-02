@@ -2,7 +2,7 @@
 
 This is my software architecture project.
 
-These are the design patters in my project:
+These are the design patterns in my project:
 
 * Singleton
 * Chain-of-resposibility
