@@ -1,4 +1,4 @@
-# Software Archteicture Project
+# Software Architecture Project
 
 This is my software architecture project.
 
