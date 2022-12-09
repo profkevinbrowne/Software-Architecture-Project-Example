@@ -36,7 +36,7 @@ class App():
 
         # Load the config file using the Config Parser module
         config = configparser.ConfigParser()
-        config.read("config.cfg")
+        config.read("config2.cfg")
 
         # setup the News API module
         self.newsapi = NewsApiClient(api_key=config["NewsAPI"]["apikey"])
